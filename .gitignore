@@ -12,6 +12,7 @@
 **/node_modules
 **/webapp
 **/Trash
+**/lenovo
 
 *.ipr
 *.iws
